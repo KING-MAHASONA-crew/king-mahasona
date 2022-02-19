@@ -1,4 +1,4 @@
-<div align="center"><h1>❖❖❖ 𝓚𝓘𝓝𝓖 𝓜𝓐𝓗𝓐𝓢𝓞𝓝𝓐 𝓑𝓞𝓣 ❖❖❖</h1><a href="https://github.com/KING-MAHASONA-crew"><img src="https://i.ibb.co/txQg1mR/MAHASONA-WHATSAPP-BOT-ALIVE-IMAJE.png" width="250" height="250"></a><h3>✬✬ KING MAHASONA CREW ✬✬</h3></div>
+<div align="center"><h1>❖❖❖ 𝓚𝓘𝓝𝓖 𝓜𝓐𝓗𝓐𝓢𝓞𝓝𝓐 𝓑𝓞𝓣 ❖❖❖</h1><a href="https://github.com/KING-MAHASONA-crew"><img src="https://i.ibb.co/txQg1mR/MAHASONA-WHATSAPP-BOT-ALIVE-IMAJE.png" width="250" height="250"></a><h3>✬✬ KING MAHASONA BOT IS THE SRI LANKS no. 1 BOT ✬✬</h3></div>
 
 
 ***
@@ -9,8 +9,12 @@
 
 
 ***
-> Contact Me(on Whatsapp) ✏
-<div align="center"><a href="wa.me/94770083563"><img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Yuren_Sasanka-success"></a></div>
+> Contact Yuren Sasanka(Developer) ✏
+<div align="center"><a href="https://wa.me/94770083563"><img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Yuren_Sasanka-success"></a></div>
+
+---
+> Contact Achi Fernando(Co-Admin) ✏
+<div align="center"><a href="https://wa.me/94720603183"><img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Achi_Fernando-success"></a></div>
 
 ---
 > KING MAHASONA CREW (Whatsapp Group) ✏
@@ -26,5 +30,5 @@
 
 
 ***
-<div align="center"><h1>✬✬ The World Best HACKER & PROGRAMER ✬✬</h1><a href="https://github.com/KING-MAHASONA-crew/"></a></div>
+<div align="center"><h1>✬✬ The Sri Lanks Best Whatsapp Bot ✬✬</h1><a href="https://github.com/KING-MAHASONA-crew/"></a></div>
 
