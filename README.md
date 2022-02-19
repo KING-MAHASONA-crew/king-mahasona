@@ -22,7 +22,7 @@
 ***
 
 
-<table><tr><th>KING:MAHASONA</th><th>Yuren Sasanka </th><th>Achi Fernando</th></tr><td><a href="https://github.com/KING-MAHASONA-crew"><img src="https://i.ibb.co/txQg1mR/MAHASONA-WHATSAPP-BOT-ALIVE-IMAJE.png" width="180" alt="KING MAHASONA"></a></td><td><a href="https://github.com/sasanka-bro"><img src="https://i.ibb.co/pJ6B88w/IMG-20220217-093004-114.jpg" width="180" alt="Yuren Sasanka"></a></td></tr><tr><td>Owner</td><td>Developer & Owner </td></tr></tr></table>
+<table><tr><th>KING:MAHASONA</th><th>Yuren Sasanka </th><th>Achi Fernando</th></tr><td><a href="https://github.com/KING-MAHASONA-crew"><img src="https://i.ibb.co/txQg1mR/MAHASONA-WHATSAPP-BOT-ALIVE-IMAJE.png" width="180" alt="KING MAHASONA"></a></td><td><a href="https://github.com/sasanka-bro"><img src="https://i.ibb.co/pJ6B88w/IMG-20220217-093004-114.jpg" width="180" alt="Yuren Sasanka"></a></td><td><a href="https://github.com/AchiyaCT"><img src="https://i.ibb.co/nsZggMP/achi-fernando.jpg" width="180" alt="Achi Fernando"></a></td></tr><tr><td>Owner</td><td>Developer & Owner</td><td>Co-Admin</td></tr></tr></table>
 
 
 ***
