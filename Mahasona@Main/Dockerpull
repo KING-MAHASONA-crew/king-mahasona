@@ -1,0 +1,9 @@
+FROM yuren/mahasona:latest
+
+RUN git clone //https://github.com/KING-MAHASONA-crew/king-mahasona /root/king-mahasona
+WORKDIR /root/king-mahasona
+ENV TZ=Europe/Istanbul
+RUN npm install supervisor -g
+RUN yarn install --no-audit
+
+CMD ["node", "bot.js"]
